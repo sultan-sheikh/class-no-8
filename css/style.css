@@ -114,6 +114,9 @@ img{
 	opacity:1;
 	transition:.4s ease;
 }
+.portfolio-content img:hover{
+opacity:.7;
+}
 .portfolio-content .divider-line .div-line{
     height: 4px;
     background:#2C3E50;
