@@ -289,7 +289,6 @@ opacity:.7;
 @media (max-width:576px){
 	.nav-link{
 		padding:10px 0 !important;
-		text-align:center;
 	}
 
 	.header h2{
